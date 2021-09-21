@@ -5,8 +5,8 @@
 Java-Dev trainee in iTechArt Group.</p>
 
 
-- Skills: Java | Spring | Hibernate | HTML, CSS, Bootstrap | SQL .
-- Worked with: IntelliJ IDEA | MySQL, PostgreSQL, MAMP | GitHub | Maven | Apache Tomcat | Thymeleaf | JSP.
+- Skills: Java | Spring | Hibernate | HTML, CSS, Bootstrap | SQL, NoSql.
+- Worked with: IntelliJ IDEA | NongoDb, MySQL, PostgreSQL, MAMP | GitHub | Maven | Apache Tomcat | Thymeleaf | JSP.
 - Currently develop my skills in Java, Spring Framework, Hibernate, programming Algorithms and Patterns.
 - English: pre-intermediate.
 
