@@ -5,7 +5,7 @@
 
 - Skills: Java | Spring | Hibernate | HTML, CSS, Bootstrap | SQL, NoSql.
 - Worked with:  Windows, Linux | IntelliJ IDEA | MongoDb, MySQL, PostgreSQL, MAMP | GitHub | Maven | Apache Tomcat | Thymeleaf | JSP.
-- Currently develop my skills in Java, Spring Framework, Hibernate, programming Algorithms and Patterns.
+- Currently develop my skills in Java, Spring Framework, Hibernate, Docker, programming Algorithms and Patterns.
 - English: pre-intermediate.
 
 ## Some of my Github Stats
