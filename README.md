@@ -1,5 +1,5 @@
 ## Hey 👋 there, Anastasi here! 
-[![Gmail Badge](https://img.shields.io/badge/-anastasiyaaki171@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anastasiyaaki171@gmail.com)](mailto:anastasiyaaki171@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-anastasiyaaki171@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anastasia.akimova.v@gmail.com)](mailto:anastasia.akimova.v@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-anastasiaakimova0-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anastasiaakimova0/)](https://www.linkedin.com/in/anastasiaakimova0/)   [![Github Badge](https://img.shields.io/badge/-anastasiaakimova-grey?style=flat&logo=github&logoColor=white&link=https://github.com/anastasiaakimova/)](https://www.github.com/anastasiaakimova/) <p align='left'>Student of Vitebsk State Technological University, specialty information technology.</p>
 <p>
 
